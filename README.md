@@ -2,8 +2,8 @@
 
 💡  &nbsp;&nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Applications.\
-🌱 &nbsp;I'm on track for learning more about Software Devlopment.\
-✍️ &nbsp;In my free time, I pursue Game Development and Creating Designs as hobbies/side hustles.\
+🌱 &nbsp;I'm on track for learning more about Software Development.\
+✍️ &nbsp;In my free time, I pursue Game Development and Create Designs as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for any help and volunteering, or just for some interesting discussion.
 
 
